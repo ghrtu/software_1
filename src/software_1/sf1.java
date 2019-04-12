@@ -1,0 +1,11 @@
+package software_1;
+
+public class sf1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("宜しくお願い致します。");
+
+	}
+
+}
